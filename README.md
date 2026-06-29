@@ -1,7 +1,6 @@
 # 🏢 Employee Attrition Prediction using Machine Learning
 
 <div align="center">
-https://housepredictionmav.netlify.app
 
 **Predicting employee turnover before it happens — so HR can act, not react.**
 
