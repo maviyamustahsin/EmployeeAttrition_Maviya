@@ -166,7 +166,6 @@ jupyter notebook analysis.ipynb
 
 <div align="center">
 
-**Internship Project — Week 2**  
-Built by **Maviya** | June 2026
+ **Maviya** | June 2026
 
 </div>
